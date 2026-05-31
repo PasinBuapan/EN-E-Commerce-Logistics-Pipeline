@@ -3,8 +3,7 @@
 An end-to-end data engineering and analytics pipeline built to audit, sanitize, and extract critical business insights from messy, multi-format supply chain transaction logs.
 
 ## 🚀 Live Environment
-* **Interactive Notebook:** |
-🔗 [Open Project in Google Colab](https://colab.research.google.com/drive/1tlTLAdKHJ2PVO0Jlq8qttopA84VYYmrg?usp=sharing)
+* **Interactive Notebook:** 🔗 [Open Project in Google Colab](https://colab.research.google.com/drive/1tlTLAdKHJ2PVO0Jlq8qttopA84VYYmrg?usp=sharing)
 
 ---
 
