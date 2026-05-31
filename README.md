@@ -21,7 +21,7 @@ Our data pipeline calculated the exact delivery turnaround time across various f
 * **LogiPost:** **6.2 Days (Severe Operational Bottleneck)**
 
 <p align="center">
-  <img src="carrier_performance.png" width="600" alt="Carrier Performance Chart">
+  <img width="784" height="483" alt="carrier_performance" src="https://github.com/user-attachments/assets/3d253567-eb25-43b8-9118-2a8fa41a39ab" />
 </p>
 
 * **Business Action:** **LogiPost takes more than double the time** of our standard carrier. Management should renegotiate service level agreements (SLAs) or aggressively shift shipping volume toward VelocityAir to reduce delivery lag by up to 75%.
@@ -30,7 +30,7 @@ Our data pipeline calculated the exact delivery turnaround time across various f
 * **Insight:** Order volume is heavily concentrated. **Security products (38.1%)** and **Smart Lighting (31.8%)** combine to drive nearly **70% of total company transactions**.
 
 <p align="center">
-  <img src="product_distribution.png" width="650" alt="Product Distribution Chart">
+  <img width="884" height="434" alt="product_distribution" src="https://github.com/user-attachments/assets/c79da11d-8d6b-4cde-9491-a3e754ae86c6" />
 </p>
 
 * **Business Action:** Because these two categories dictate our cash flow, any delivery delays associated with Security or Lighting components will disproportionately harm brand loyalty. Supply chains for these specific parts must be heavily guarded against disruptions.
